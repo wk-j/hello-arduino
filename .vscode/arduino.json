@@ -1,0 +1,6 @@
+{
+    "sketch": "lib/HCSR04Ultrasonic/examples/UltrasonicDemo/UltrasonicDemo.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbserial-143240",
+    "programmer": "AVR ISP"
+}
