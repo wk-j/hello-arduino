@@ -1,6 +1,6 @@
 {
-    "sketch": "src/Sonic/sketch_oct10a.ino",
+    "sketch": "src/Motor/M.ino",
     "board": "arduino:avr:uno",
-    "port": "/dev/cu.usbserial-143240",
+    "port": "/dev/cu.usbserial-14340",
     "programmer": "AVR ISP"
 }
